@@ -1,3 +1,6 @@
+###Internship at CODTECH IT SOLUTIONS PVT.LTD
+###Intern ID - CITS6571
+
 # IMS Pro — SQL Inventory Tracker
 
 A single-page inventory management dashboard with a simulated login flow, product CRUD (Create, Read, Update, Delete), low-stock alerts, and a valuation summary — paired with the SQL schema/queries that would back it in a real deployment.

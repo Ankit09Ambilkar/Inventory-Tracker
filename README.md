@@ -1,5 +1,5 @@
-###Internship at CODTECH IT SOLUTIONS PVT.LTD
-###Intern ID - CITS6571
+### Internship at CODTECH IT SOLUTIONS PVT.LTD
+### Intern ID - CITS6571
 
 # IMS Pro — SQL Inventory Tracker
 

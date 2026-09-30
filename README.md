@@ -77,3 +77,14 @@ No build step needed:
 - Add real authentication (hashed passwords, sessions/JWT) instead of a hardcoded check
 - Add pagination for large inventories
 - Add input validation (e.g., prevent negative price/qty on the client side, matching the SQL `CHECK` constraints)
+
+
+
+
+
+
+
+
+
+
+# hello ankit 
